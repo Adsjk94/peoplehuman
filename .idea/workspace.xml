@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cba4c4c-2ab9-402a-ae01-bbf6f52e42fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jWLos4LpuhukIVqYe7Ee8COnBF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PeopleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="peoplehuman.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PeopleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PeopleKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cba4c4c-2ab9-402a-ae01-bbf6f52e42fc" name="Default Changelist" comment="" />
+      <created>1603915080904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603915080904</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="888" y="339" width="263" height="260" key="Github.ShareDialog" timestamp="1603920506723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="888" y="339" width="263" height="260" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603920506723" />
+    <state width="1340" height="157" key="GridCell.Tab.0.bottom" timestamp="1603920445362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603920445362" />
+    <state width="1340" height="157" key="GridCell.Tab.0.center" timestamp="1603920445362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603920445362" />
+    <state width="1340" height="157" key="GridCell.Tab.0.left" timestamp="1603920445361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603920445361" />
+    <state width="1340" height="157" key="GridCell.Tab.0.right" timestamp="1603920445362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="157" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603920445362" />
+    <state x="624" y="208" key="new project wizard" timestamp="1603917650722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="208" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603917650722" />
+  </component>
+</project>
